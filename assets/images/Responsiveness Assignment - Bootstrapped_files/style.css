@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/gravel.png")
+}
+
+.container {
+    max-width: 960px;
+    background-color:#ffffff;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#profile-img {
+    max-width: 300px;
+}
